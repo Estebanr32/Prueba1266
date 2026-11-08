@@ -1,0 +1,10 @@
+{
+  "description": "Facilitates online donations and e-commerce for a foundation supporting individuals with Down syndrome, enhancing fundraising efforts and community support.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
